@@ -1,0 +1,11 @@
+first_name = 'Abubakar'
+last_name = 'Sabiu'
+full_name = 'Abubakar Sabiu'
+city = 'Kano'
+country = 'Nigeria'
+age = 29
+year = 2023
+is_married = True
+is_true = True
+is_light_on = True
+first_name, last_name, country, age, is_married = 'Abubakar', 'Sabiu', 'Kano', 29, True     
