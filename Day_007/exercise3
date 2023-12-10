@@ -1,0 +1,9 @@
+age = [22, 19, 24, 25, 26, 24, 25, 24]
+new_age = set (age)
+print (len(new_age))
+print ('The lenght of the list is: ', len(age))
+print ('the lenght of the set is: ', len(new_age))
+##string represents sequent of characters, they are immutable once created
+##list is an unordered collection of items, they are mutable after created
+#tupple is similar to lsi but immutable
+##sets represents unordered collection of unique elements
